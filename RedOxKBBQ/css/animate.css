@@ -3278,3 +3278,9 @@
   -webkit-animation-name: slideOutUp;
   animation-name: slideOutUp;
 }
+
+
+#centerer {
+  display: flex;
+  justify-content: center;
+}
